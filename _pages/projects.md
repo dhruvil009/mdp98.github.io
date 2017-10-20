@@ -21,7 +21,7 @@ Worked on the development of a prototype of a sophisticated home automation syst
 An Android app was developed to convert voice commands to text and the text was communicated to a micro-controller.
 An intent classifier would be developed which would recognize the task given by the user and corresponding APIs would be called to complete the task.
 
-[Code](https://github.com/mdp98/June){: .btn .btn--inverse} [Report](){: .btn .btn--inverse}
+[Code](https://github.com/mdp98/June){: .btn .btn--inverse} [Report](/home_automation_report/){: .btn .btn--inverse}
 
 ## Door Security Control System
 <small>April 2017 - May 2017</small>
