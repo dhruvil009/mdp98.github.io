@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Experience"
+    url: /experience/
+  - title: "Organisations"
+    url: /organisations/
+  - title: "Courses"
+    url: /courses/
+  - title: "Resume"
+    url: /resume/
+  
