@@ -30,6 +30,6 @@ Interfaced and programmed an **Intel 80x86 processor** to develop a password bas
 Prepared a simulation of the same using **Proteus** software to test functionalities like setting password, opening door in case of correct password
 and sounding alarm in case of wrong password.
 
-[Code](){: .btn .btn--inverse} [Report](/door_security_report/){: .btn .btn--inverse}
+[Code](https://github.com/mdp98/Door-Security-Control-System){: .btn .btn--inverse} [Report](/door_security_report/){: .btn .btn--inverse}
 
 
